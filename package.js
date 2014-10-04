@@ -1,5 +1,7 @@
 Package.describe({
-  summary: "Collection of functions for async logic."
+    summary: "Collection of functions for async logic.",
+    name: "mylar:async",
+    git: "https://github.com/gliesesoftware/mylar-async.git"
 });
 
 Package.onUse(function (api) {
